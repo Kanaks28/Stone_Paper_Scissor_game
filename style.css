@@ -1,0 +1,23 @@
+ body{
+            text-align: center;
+        }
+        .choice-image{
+            height: 150px;
+            border-radius: 50%;
+            
+        }
+        #stone{
+            height: 150px;
+            width: 150px;
+            border-radius: 50%;
+        }
+        .choice-button{
+            width: 200px;
+            height: 200px;
+            border: none;
+            margin: 10px;
+            background-color: rgb(164, 212, 130);
+            border-radius: 50%;
+            cursor: pointer;
+            
+        }
